@@ -3,6 +3,7 @@
 //  HelloWorld
 //
 //  Created by Martin Lindskog on 2012-05-05.
+//  Test
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
